@@ -23,4 +23,8 @@ export const pubg = [
         name: 'GHOUSE',
         source: require('../../Image/Untitled_design_(31)_1595063852593_1595063861866_1633853749994.webp'),
     },
+    {
+        name: 'ZEBRONICS',
+        source: require('../../Image/nature-3082832__340.jpg'),
+    },
 ]

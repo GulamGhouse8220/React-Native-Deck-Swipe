@@ -23,7 +23,7 @@ export default function RoundButton({ name, size, color, onPress }) {
             onPressIn={() => animateScale(0.8)}
             delayPressIn={0}
             onPressOut={() => {
-                animateScale(1);  
+                animateScale(1); 
                 onPress();
             }}
             delayPressOut={110}
